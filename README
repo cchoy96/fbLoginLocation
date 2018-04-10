@@ -1,0 +1,8 @@
+To run the script:
+1) Install necessary Python dependencies
+2) Run: $ python fbLocations.py ./path/to/facebook-dataDirectory
+
+This script utilizes the following:
+- Python 2.7
+- Beautifulsoup4
+- geoip2
